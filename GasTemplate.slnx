@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="src/GasTemplate.Core/GasTemplate.Core.csproj" />
+</Solution>
