@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\GasTemplate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB00D389-B9C6-4568-B811-6C7557793800}|src\\GasTemplate.Core\\GasTemplate.Core.csproj|e:\\gastemplate\\src\\gastemplate.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB00D389-B9C6-4568-B811-6C7557793800}|src\\GasTemplate.Core\\GasTemplate.Core.csproj|solutionrelative:src\\gastemplate.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AD6F920-16EE-EAA1-6DA7-6D4B9DBCE7DC}|src\\GasTemplate.Core\\GasTemplate.Core.csproj|e:\\gastemplate\\src\\gastemplate.core\\models\\gasalignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD6F920-16EE-EAA1-6DA7-6D4B9DBCE7DC}|src\\GasTemplate.Core\\GasTemplate.Core.csproj|solutionrelative:src\\gastemplate.core\\models\\gasalignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\GasTemplate\\src\\GasTemplate.Core\\Class1.cs",
-              "RelativeDocumentMoniker": "src\\GasTemplate.Core\\Class1.cs",
-              "ToolTip": "E:\\GasTemplate\\src\\GasTemplate.Core\\Class1.cs",
-              "RelativeToolTip": "src\\GasTemplate.Core\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "GasAlignment.cs",
+              "DocumentMoniker": "E:\\GasTemplate\\src\\GasTemplate.Core\\Models\\GasAlignment.cs",
+              "RelativeDocumentMoniker": "src\\GasTemplate.Core\\Models\\GasAlignment.cs",
+              "ToolTip": "E:\\GasTemplate\\src\\GasTemplate.Core\\Models\\GasAlignment.cs",
+              "RelativeToolTip": "src\\GasTemplate.Core\\Models\\GasAlignment.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAwGIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T21:11:01.722Z",
+              "WhenOpened": "2026-07-16T21:29:24.97Z",
               "EditorCaption": ""
             }
           ]

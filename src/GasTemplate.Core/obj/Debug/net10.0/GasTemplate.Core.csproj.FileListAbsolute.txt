@@ -1,0 +1,12 @@
+E:\GasTemplate\src\GasTemplate.Core\bin\Debug\net10.0\GasTemplate.Core.deps.json
+E:\GasTemplate\src\GasTemplate.Core\bin\Debug\net10.0\GasTemplate.Core.dll
+E:\GasTemplate\src\GasTemplate.Core\bin\Debug\net10.0\GasTemplate.Core.pdb
+E:\GasTemplate\src\GasTemplate.Core\obj\Debug\net10.0\GasTemplate.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\GasTemplate\src\GasTemplate.Core\obj\Debug\net10.0\GasTemplate.Core.AssemblyInfoInputs.cache
+E:\GasTemplate\src\GasTemplate.Core\obj\Debug\net10.0\GasTemplate.Core.AssemblyInfo.cs
+E:\GasTemplate\src\GasTemplate.Core\obj\Debug\net10.0\GasTemplate.Core.csproj.CoreCompileInputs.cache
+E:\GasTemplate\src\GasTemplate.Core\obj\Debug\net10.0\GasTemplate.Core.sourcelink.json
+E:\GasTemplate\src\GasTemplate.Core\obj\Debug\net10.0\GasTemplate.Core.dll
+E:\GasTemplate\src\GasTemplate.Core\obj\Debug\net10.0\refint\GasTemplate.Core.dll
+E:\GasTemplate\src\GasTemplate.Core\obj\Debug\net10.0\GasTemplate.Core.pdb
+E:\GasTemplate\src\GasTemplate.Core\obj\Debug\net10.0\ref\GasTemplate.Core.dll
