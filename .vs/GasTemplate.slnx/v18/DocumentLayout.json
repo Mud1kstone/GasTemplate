@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{8AD6F920-16EE-EAA1-6DA7-6D4B9DBCE7DC}|src\\GasTemplate.Core\\GasTemplate.Core.csproj|e:\\gastemplate\\src\\gastemplate.core\\models\\gasalignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AD6F920-16EE-EAA1-6DA7-6D4B9DBCE7DC}|src\\GasTemplate.Core\\GasTemplate.Core.csproj|solutionrelative:src\\gastemplate.core\\models\\gasalignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD6F920-16EE-EAA1-6DA7-6D4B9DBCE7DC}|src\\GasTemplate.Core\\GasTemplate.Core.csproj|e:\\gastemplate\\src\\gastemplate.core\\models\\gasassembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD6F920-16EE-EAA1-6DA7-6D4B9DBCE7DC}|src\\GasTemplate.Core\\GasTemplate.Core.csproj|solutionrelative:src\\gastemplate.core\\models\\gasassembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD6F920-16EE-EAA1-6DA7-6D4B9DBCE7DC}|src\\GasTemplate.Core\\GasTemplate.Core.csproj|e:\\gastemplate\\src\\gastemplate.core\\models\\gassegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD6F920-16EE-EAA1-6DA7-6D4B9DBCE7DC}|src\\GasTemplate.Core\\GasTemplate.Core.csproj|solutionrelative:src\\gastemplate.core\\models\\gassegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD6F920-16EE-EAA1-6DA7-6D4B9DBCE7DC}|src\\GasTemplate.Core\\GasTemplate.Core.csproj|e:\\gastemplate\\src\\gastemplate.core\\models\\gasproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD6F920-16EE-EAA1-6DA7-6D4B9DBCE7DC}|src\\GasTemplate.Core\\GasTemplate.Core.csproj|solutionrelative:src\\gastemplate.core\\models\\gasproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD6F920-16EE-EAA1-6DA7-6D4B9DBCE7DC}|src\\GasTemplate.Core\\GasTemplate.Core.csproj|e:\\gastemplate\\src\\gastemplate.core\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD6F920-16EE-EAA1-6DA7-6D4B9DBCE7DC}|src\\GasTemplate.Core\\GasTemplate.Core.csproj|solutionrelative:src\\gastemplate.core\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GasAssembly.cs",
+              "DocumentMoniker": "E:\\GasTemplate\\src\\GasTemplate.Core\\Models\\GasAssembly.cs",
+              "RelativeDocumentMoniker": "src\\GasTemplate.Core\\Models\\GasAssembly.cs",
+              "ToolTip": "E:\\GasTemplate\\src\\GasTemplate.Core\\Models\\GasAssembly.cs",
+              "RelativeToolTip": "src\\GasTemplate.Core\\Models\\GasAssembly.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T20:18:39.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GasSegment.cs",
+              "DocumentMoniker": "E:\\GasTemplate\\src\\GasTemplate.Core\\Models\\GasSegment.cs",
+              "RelativeDocumentMoniker": "src\\GasTemplate.Core\\Models\\GasSegment.cs",
+              "ToolTip": "E:\\GasTemplate\\src\\GasTemplate.Core\\Models\\GasSegment.cs",
+              "RelativeToolTip": "src\\GasTemplate.Core\\Models\\GasSegment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T20:18:13.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GasProject.cs",
+              "DocumentMoniker": "E:\\GasTemplate\\src\\GasTemplate.Core\\Models\\GasProject.cs",
+              "RelativeDocumentMoniker": "src\\GasTemplate.Core\\Models\\GasProject.cs",
+              "ToolTip": "E:\\GasTemplate\\src\\GasTemplate.Core\\Models\\GasProject.cs",
+              "RelativeToolTip": "src\\GasTemplate.Core\\Models\\GasProject.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T20:14:42.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Station.cs",
+              "DocumentMoniker": "E:\\GasTemplate\\src\\GasTemplate.Core\\Models\\Station.cs",
+              "RelativeDocumentMoniker": "src\\GasTemplate.Core\\Models\\Station.cs",
+              "ToolTip": "E:\\GasTemplate\\src\\GasTemplate.Core\\Models\\Station.cs",
+              "RelativeToolTip": "src\\GasTemplate.Core\\Models\\Station.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T20:10:41.778Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +92,7 @@
               "RelativeDocumentMoniker": "src\\GasTemplate.Core\\Models\\GasAlignment.cs",
               "ToolTip": "E:\\GasTemplate\\src\\GasTemplate.Core\\Models\\GasAlignment.cs",
               "RelativeToolTip": "src\\GasTemplate.Core\\Models\\GasAlignment.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAAwGIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-16T21:29:24.97Z",
               "EditorCaption": ""

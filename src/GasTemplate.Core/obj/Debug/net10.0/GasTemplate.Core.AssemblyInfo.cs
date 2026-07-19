@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GasTemplate.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5949c9015f9a1695caa79e4a0662e0d86c83255")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05d31b2f45caf1970fab3abd78a403ab3945d59d")]
 [assembly: System.Reflection.AssemblyProductAttribute("GasTemplate.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GasTemplate.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

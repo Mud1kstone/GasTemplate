@@ -11,6 +11,9 @@
 /// </summary>
 public sealed class GasAlignment
 {
+    private readonly List<GasSegment> _segments = new();
+
+    private readonly List<GasAssembly> _assemblies = new();
     /// <summary>
     /// Уникальный идентификатор трассы внутри проекта.
     /// </summary>
